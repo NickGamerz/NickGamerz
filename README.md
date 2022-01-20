@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NickGamerz.
-- 👀 I’m interested in Editing Videos & Making Websites.
-- 🌱 I’m currently learning Web Development & Video Editing.
-- 💞 I’m currently Learning Python. 
+- 👀 I’m interested in Coding , Video Editing & Making Websites.
+- 🌱 I’m currently learning Web Development & Python.
 - 📫 You can contact me through my Website.
 
 <!---
