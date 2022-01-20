@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickGamerz.
 - 👀 I’m interested in Coding , Video Editing & Making Websites.
 - 🌱 I’m currently learning Web Development & Python.
-- I have Completed Advance CSS course and learned Flexbox and SASS
+- ✨ I have Completed Advance CSS course and learned Flexbox and SASS
 - 📫 You can contact me through my Website.
 
 <!---
